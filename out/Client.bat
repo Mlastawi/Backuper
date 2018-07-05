@@ -1,0 +1,1 @@
+start javaw -Djava.security.policy=java.policy SciagaczGUI
